@@ -1,2 +1,3 @@
 # TODS_LMD_AD
-Teleops vehicle Last midle delivery anomaly detection
+Teleops vehicle Last mile delivery anomaly detection.
+
